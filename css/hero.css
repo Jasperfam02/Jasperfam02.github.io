@@ -14,13 +14,15 @@ header{
 h1{
   font-size: 80px;
   color:white;
+  text-shadow: 0 4px 20px black;
 }
 
 header img{
   border-radius: 150px;
   width:40%;
   height: 40%;
-  border:10px solid #ffff00
+  border:10px solid #ffff00;
+  box-shadow: 10px 10px 20px #ffff00;
 }
 
 /*content*/
