@@ -32,6 +32,7 @@ header img{
 
 img.big_image{
   max-width: 150%;
+  width: 1000px;
 }
 
 p.caption{
