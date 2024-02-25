@@ -1,24 +1,28 @@
-<style type="text/css">
-  h1{
-    color:red;
-    font-size:90px;
-    text-decoration:underline
-  }
+body{
+  background-color: lightgrey;
+}
 
-  h2{
-    font-size:40px;
-    color:green;
-  }
+h1{
+  color:red;
+  font-size:90px;
+  text-decoration:underline
+}
 
-  .small{
-    font-size:12px;
-  }
+h2{
+  font-size:40px;
+  color:green;
+}
 
-  span{
-    font-style:italic;
-  }
+.small{
+  font-size:12px;
+}
 
-  h2 span{
-    text-decoration:line-thorugh;
-  }
+span{
+  font-style:italic;
+}
+
+h2 span{
+  text-decoration:line-thorugh;
+}
 </style>
+}}
