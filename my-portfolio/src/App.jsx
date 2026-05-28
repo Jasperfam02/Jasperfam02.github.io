@@ -136,13 +136,7 @@ function App() {
       <section id="analytics" className="analytics-section">
         <span className="section-label">Data</span>
         <h2 className="section-title">Analytics Showcase</h2>
-        <p className="section-sub">
-          Live dashboards from Google Analytics &amp; Looker Studio embedded below.
-        </p>
-        <div className="analytics-box">
-          <p>📌 Embed your Looker Studio iframe here</p>
-          <p>📌 Show GA4 traffic &amp; funnel reports</p>
-        </div>
+      
       </section>
 
       {/* CONTACT */}
