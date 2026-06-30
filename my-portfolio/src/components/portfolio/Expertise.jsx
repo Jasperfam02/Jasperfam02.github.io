@@ -17,6 +17,7 @@ const groups = [
       "Notion",
       "WordPress",
       "Wix",
+      "Tailscale",
     ],
   },
 ];
